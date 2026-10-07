@@ -11,7 +11,7 @@ Arhataa.ai helps hiring teams evaluate large applicant pools against a job descr
 Watch the project concept and workflow demo below.
 
 <video controls width="100%" playsinline preload="metadata">
-  <source src="./Arhataa.ai_Clip.mp4" type="video/mp4" />
+  <source src="/Arhataa.ai_Clip.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
